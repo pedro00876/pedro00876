@@ -1,7 +1,7 @@
 <h1 align="center">👋 Opa! Eu sou o Pedro Elias</h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-End focado em React e TypeScript</b><br/>
+  <b>Desenvolvedor Front-End focado em React e Vue</b><br/>
   Sempre em busca de aprimorar meus conhecimentos e aprender novas tecnologias.
 </p>
 
@@ -10,8 +10,9 @@
 ### 🧠 Sobre mim
 Sou apaixonado por tecnologia e programação.  
 Gosto de transformar ideias em interfaces funcionais, rápidas e bem estruturadas.  
-Atualmente estudo e trabalho com **React**, **TypeScript** e **Node.js**,  
-mas estou sempre explorando novas ferramentas do ecossistema JavaScript.
+Atualmente estudo e trabalho com **React** e **Vue**, explorando diferentes formas de criar experiências modernas no front-end.  
+Também sou bastante curioso sobre o funcionamento do **Node.js** e do **TypeScript**, sempre buscando entender mais sobre o lado do back-end e tipagem de código.
+
 
 ---
 
