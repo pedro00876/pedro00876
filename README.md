@@ -29,9 +29,14 @@ Também sou bastante curioso sobre o funcionamento do **Node.js** e do **TypeScr
 ---
 
 ### 📊 Estatísticas do GitHub
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro00876&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro00876&layout=compact&theme=dracula&hide_border=false" height="170" alt="languages graph"/>
+<div align="center">
+
+### Commits e Contribuições
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true)
+
+### Linguagens mais Usadas
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
 </div>
 
 
