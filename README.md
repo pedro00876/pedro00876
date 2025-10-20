@@ -40,10 +40,6 @@ Também sou bastante curioso sobre o funcionamento do **Node.js** e do **TypeScr
 </div>
 
 
->
-
-
-
 ---
 
 ### 🌐 Onde me encontrar
