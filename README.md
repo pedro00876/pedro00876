@@ -46,4 +46,4 @@ Também sou bastante curioso sobre o funcionamento do **Node.js** e do **TypeScr
 
 ---
 
-<p align="center">💬 “O aprendizado constante é o que move o desenvolvimento.”</p>
+<p align="center">💬 “O aprendizado constante é o que move o desenvolvimento.” </p>
