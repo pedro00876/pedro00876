@@ -40,9 +40,6 @@ Também sou bastante curioso sobre o funcionamento do **Node.js** e do **TypeScr
   <a href="https://discord.com/users/pedroelias0069" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="35" alt="discord logo"/>
   </a>
-  <a href="https://www.instagram.com/pedrochagas__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
 </div>
 
 ---
